@@ -1,3 +1,4 @@
+```
 usage : tty-clock [-iuvsScbtrahDBxn] [-C [0-7]] [-f format] [-d delay] [-a nsdelay] [-T tty]
     -s            Show seconds
     -S            Screensaver mode
@@ -18,12 +19,15 @@ usage : tty-clock [-iuvsScbtrahDBxn] [-C [0-7]] [-f format] [-d delay] [-a nsdel
     -B            Enable blinking colon
     -d delay      Set the delay between two redraws of the clock. Default 1s.
     -a nsdelay    Additional delay between two redraws in nanoseconds. Default 0ns.
+```
 
-changes in this fork:
+# Changes in this fork:
+## 1
 ```
     ██      ████
     ██        ██
     ██  ->    ██
     ██        ██
     ██      ██████
+------      ------
 ```
